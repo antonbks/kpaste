@@ -1,3 +1,0 @@
-Contact: security@infomaniak.com
-Preferred-Languages: en,fr,de
-Hiring: https://www.infomaniak.com/en/about/join-us
